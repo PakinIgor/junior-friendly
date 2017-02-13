@@ -26,8 +26,7 @@
 
 Полный рабочий день. Офис в Москве.
 
-Писать: [yakhin.v@gmail.com](mailto:yakhin.v@gmail.com)<br>
-Звонить: [+79032320810](tel:+79032320810)
+Писать: [talents@tinkoff.ru](mailto:talents@tinkoff.ru)<br>
 
 ### <img src="logo/mel.jpg"> Мел ✅
 
