@@ -26,7 +26,7 @@
 
 Полный рабочий день. Офис в Москве.
 
-Писать: [talents@tinkoff.ru](mailto:talents@tinkoff.ru)<br>
+Писать: [best-talents@tinkoff.ru](mailto:best-talents@tinkoff.ru)<br>
 
 ### <img src="logo/mel.jpg"> Мел ✅
 
