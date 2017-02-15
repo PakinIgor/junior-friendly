@@ -38,7 +38,7 @@
 
 Полный рабочий день. Офис в Москве.
 
-[Я хочу здесь работать](https://career.ru/vacancy/19329610)
+[Я хочу здесь работать](https://hh.ru/vacancy/19641777)
 
 ### [<img src="logo/isys.png"> i-Sys.ru](http://www.i-sys.ru/) ✅
 
