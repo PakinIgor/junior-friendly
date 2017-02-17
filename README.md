@@ -101,6 +101,18 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
+### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
+### Список вакансий для молодых специалистов
+1. [Стажер - разработчик DWH (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-voronezh/)
+2. [Стажер-разработчик](https://www.at-consulting.ru/career/students/razrabotka-po/stazher-razrabotchik/)
+3. [Стажер - разработчик Java (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-java-voronezh/)
+4. [Java Junior developer](https://www.at-consulting.ru/career/students/razrabotka-po/java-junior-developer/)
+5. [Junior Front-end Developer](https://www.at-consulting.ru/career/students/razrabotka-po/junior-front-end-developer/)
+
+Москва, Воронеж
+
+---
+
 ### [<img src="logo/krok.png"> Крок](http://www.croc.ru/)
 ### Большой список вакансий для начинающих специалистов
 
