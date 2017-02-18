@@ -149,6 +149,17 @@ Rails проект на базе Redmine. Автоматизация произ�
 [Получить эту работу](http://www.it-energy.ru/career/#snd)
 
 ---
+
+### [<img src="logo/cinimex.png"> Cinimex] (http://www.cinimex.ru/)
+
+- [Младший разработчик AS/400](http://welcome.cinimex.ru/vacancy/122/)
+- [Младший Java-разработчик](http://welcome.cinimex.ru/vacancy/58/)
+
+Москва
+
+[Подробнее о работодателе](http://welcome.cinimex.ru/)
+
+---
 ## Стажировка
 
 ### [<img src="logo/info.png"> InfoWatch](https://www.infowatch.ru/)
