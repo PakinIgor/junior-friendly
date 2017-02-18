@@ -174,6 +174,20 @@ Rails проект на базе Redmine. Автоматизация произ�
 Писать: [resume@extyl-pro.ru](mailto:resume@extyl-pro.ru)
 
 ---
+
+### [<img src="logo/mediasoft.png"> Mediasoft](http://php73.ru/)
+#### Junior PHP developer
+
+- Начальный или средний уровень: PHP, MySQL
+- Представления о html, css, javascript
+- Приветствуются знания bitrix-framework, Yii-framework, баг-трекеров, систем контроля версий
+- Желание профессионально расти
+
+Ульяновск
+
+Писать: [job@php73.ru](mailto:job@php73.ru)
+
+---
 ## Стажировка
 
 ### [<img src="logo/info.png"> InfoWatch](https://www.infowatch.ru/)
