@@ -278,7 +278,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/) ✅
+### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
 #### [Инженер службы технической поддержки](http://www.odin.com/careers/open-jobs/job-detail/article/technical-support-engineer-tse/)
 
 ODIN (Ingram Micro) – мы разрабатываем глобальную дистрибьютерскую платформу для облачных сервисов.
