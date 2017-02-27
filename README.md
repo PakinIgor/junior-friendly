@@ -18,22 +18,6 @@
 ---
 ## Работа
 
-### [<img src="logo/tinkoff.ico"> Тинькофф банк](https://www.tinkoff.ru) ✅
-
-#### Верстальщик
-
-  1. Soft-skills.
-  2. Хорошее знание теории.
-  3. Огонь в глазах.
-
-Полный рабочий день.
-
-Москва.
-
-Писать: [best-talents@tinkoff.ru](mailto:best-talents@tinkoff.ru)<br>
-
----
-
 ### <img src="logo/mel.jpg"> Мел ✅
 
 #### Junior javascript developer
