@@ -18,6 +18,27 @@
 ---
 ## Работа
 
+### [<img src="logo/sabaka.jpg"> Sabaka](https://sabaka.io/)
+
+#### Junior мобильный разработчик (React Native)
+**Skills and technologies:**
+- Modern Javascript
+- React, React Native, Redux
+- Mobile application development (iOS, Android)
+- Firebase
+- AWS Lambda
+
+**What you get:**
+- Production experience with great dev tools
+- A seat at our coworking space in the center of Moscow
+- Fair compensation based on your skills
+
+Москва.
+
+[Заполнить анкету](https://jobs.staya.vc/job/558?lang=ru)
+
+---
+
 ### [<img src="logo/mintrocket.jpg"> MintRocket](http://mintrocket.ru/) ✅
 
 #### Junior iOS Developer
