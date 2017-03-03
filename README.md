@@ -18,7 +18,7 @@
 ---
 ## Работа
 
-### [<img src="logo/dalee.png" Далее](http://www.dalee.ru/) ✅
+### [<img src="logo/dalee.png"> Далее](http://www.dalee.ru/) ✅
 
 #### HTML-верстальщик / Frontend-разработчик
 
