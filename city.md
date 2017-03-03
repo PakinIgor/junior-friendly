@@ -278,8 +278,8 @@ Rails проект на базе Redmine. Автоматизация произ�
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы.
 
 Писать:
-- [a.korkots@andersenlab.com](mailto:a.korkots@andersenlab.com),
-- [s.volodina@andersenlab.com](mailto:s.volodina@andersenlab.com).
+- [a.korkots@andersenlab.com](mailto:a.korkots@andersenlab.com)
+- [s.volodina@andersenlab.com](mailto:s.volodina@andersenlab.com)
 ***
 
 ### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
@@ -294,7 +294,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 Москва, Санкт-Петербург, Екатеринбург и Минск.
 
-[Хочу больше информации!](https://yandex.ru/jobs/internship).
+[Хочу больше информации!](https://yandex.ru/jobs/internship)
 
 ---
 
@@ -814,8 +814,8 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы.
 
 Писать:
-- [a.korkots@andersenlab.com](mailto:a.korkots@andersenlab.com),
-- [s.volodina@andersenlab.com](mailto:s.volodina@andersenlab.com).
+- [a.korkots@andersenlab.com](mailto:a.korkots@andersenlab.com)
+- [s.volodina@andersenlab.com](mailto:s.volodina@andersenlab.com)
 ***
 
 ### [<img src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
