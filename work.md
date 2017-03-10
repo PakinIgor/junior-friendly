@@ -1,5 +1,21 @@
 ## Работа
 
+### [<img src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/)
+
+**Москва**
+
+#### Начинающий разработчик ASP.NET
+
+**Наши требования:**
+- Пониманием принципов ООП;
+- Базовые знания языка C# и платформы .NET Framework;
+- Базовые знания Microsoft SQL Server;
+- Возможность работать в офисе не менее 30 часов в неделю.
+
+[Мне нравится эта вакансия](http://www.cmsplanet.ru/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/)
+
+---
+
 ### [<img src="logo/dalee.png"> Далее](http://www.dalee.ru/) ✅
 
 **Москва**
