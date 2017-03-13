@@ -1,5 +1,30 @@
 ## Стажировка
 
+
+### [<img src="logo/selectel.png"> Selectel](https://selectel.ru/)
+
+**Санкт-Петербург**
+
+#### Стажер Python в отдел разработки внутренних сервисов
+
+**Наш стек технологий:**
+- Python (в основном используем Flask);
+- PostgreSQL (Psycopg2), без ORM и SQLalchemy;
+- Memcache;
+- GIT;
+- Docker;
+- Jenkins для CI;
+
+**Наши ожидания от кандидатов:**
+- вы знакомы с нашим стеком технологий;
+- знаете Python 2.7 и 3.5;
+- опыт работы с PostgreSQL (на уровне «могу спроектировать структуру БД и грамотно строить запросы»), Psycopg2;
+- опыт работы с \*nix;
+
+[Пройти здесь стажировку](https://selectel.ru/careers/all/vacancy/#19869837)
+
+---
+
 ### [<img src="logo/chulakov.png"> Студия Олега Чулакова](http://chulakov.ru/)
 
 **Ростов-на-Дону**
