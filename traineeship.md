@@ -1,7 +1,7 @@
 ## Стажировка
 
 
-### [<img src="logo/selectel.png"> Selectel](https://selectel.ru/)
+### [<img src="logo/selectel.png"> Selectel](https://selectel.ru/) ✅
 
 **Санкт-Петербург**
 

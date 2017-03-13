@@ -1,5 +1,25 @@
 ## Работа
 
+### [<img src="logo/forasoft.png"> ForaSoft](https://forasoft.com/ru/) ✅
+
+**Санкт-Петербург**
+
+#### Junior JS developer
+
+**Основные требования:**
+- Опыт разработки на JavaScript, jQuery;
+- Знание HTML/CSS;
+- Понимание принципов ООП;
+- Знание HTTP протокола;
+
+Рассматриваем студентов последних курсов (гибкий график).
+
+[Описание вакансии](https://spb.hh.ru/vacancy/19760664)
+
+Писать: [hr@fora-soft.com](mailto:hr@fora-soft.com)
+
+---
+
 ### [Софт Бизнес Системы](http://www.sbsystems.by/)
 
 **Минск**
