@@ -29,7 +29,7 @@
 
 ---
 
-### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/)
+### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
 
 **Ростов-на-Дону***
 

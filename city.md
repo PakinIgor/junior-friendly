@@ -801,7 +801,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Ростов-на-Дону
 
-### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/)
+### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
 
 #### Тестировщик
 
@@ -1191,7 +1191,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Черкассы
 
-### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/)
+### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
 
 #### Специалист технической поддержки
 
