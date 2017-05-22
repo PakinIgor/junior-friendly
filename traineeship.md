@@ -1,5 +1,20 @@
 ## Стажировка
 
+### [<img src="logo/intel.png" Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
+
+**Нижний Новгород**
+
+#### Стажер Python
+
+Требования:
+- знание Python;
+- обучение на последних курсах университета.
+
+Хорошая оплата на протяжении всей стажировки.
+
+Высылать резюме на адрес: [blohin.o.d@gmail.com](mailto:blohin.o.d@gmail.com)
+
+---
 
 ### [<img src="logo/selectel.png"> Selectel](https://selectel.ru/) ✅
 
