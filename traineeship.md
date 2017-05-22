@@ -1,6 +1,6 @@
 ## Стажировка
 
-### [<img src="logo/intel.png" Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
+### [<img src="logo/intel.png"> Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
 
 **Нижний Новгород**
 
