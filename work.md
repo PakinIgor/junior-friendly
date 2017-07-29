@@ -1,5 +1,23 @@
 ## Работа
 
+### [<img src="logo/hawkhouse.png"> Hawkhouse](http://www.hawkhouse.ru/)
+
+**Москва**
+
+#### Фронтенд-разработчик (junior, middle)
+
+Требования:
+- EcmaScript 5/6, React, Reflux/Alt.js, SASS/LESS
+
+Желательно:
+- Superagent/Axios, CommonJS, JSON, Underscore/Lodash, Selenium, Mocho/Jest/Jasmine, NPM, Gulp, Webpack, Git, JIRA.
+
+Фултайм, офис. Локация: м.Кутузовская, БЦ Президент плаза.
+
+[Откликнуться на вакансию](mailto:c.tedeyev@h-h-i.ru)
+
+---
+
 ### [<img src="logo/greenmars.png"> GreenMars](https://greenmars.ru/) ✅
 
 **Москва**
