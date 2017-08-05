@@ -1,5 +1,6 @@
 # Вакансии и стажировки по городам
 
+- [Удаленно](#Удаленно)
 - [Витебск](#Витебск)
 - [Воронеж](#Воронеж)
 - [Екатеринбург](#Екатеринбург)
@@ -24,6 +25,40 @@
 - [Харьков](#Харьков)
 - [Черкассы](#Черкассы)
 - [Чернигов](#Чернигов)
+
+## Удаленно
+
+### [<img src="logo/incognito.jpg"> Инкогнито]
+
+Удаленно
+
+#### Junior security engineer
+
+**Must have:**
+- Basic Understanding of the Linux internals
+- Basic understanding of attacks, web, low level vulnerabilities
+- Experience with running automated vulnerability scanners and should have worked with vulnerability management systems
+- Experience with Scripting languages is a plus
+- Deep understanding of Database systems, understanding of Hadoop is a must
+- Should be used to doing RCA and propose/implement solutions.
+- Basic understanding of VPN and various VPN protocols (SSH, IPSec, openvpn)
+- Basic understanding of DNS, HTTP, HTTPS protocols.
+- Should be able to multi-task and prioritize.
+- Most of all must be able to run database queries and understand results.
+
+**The company offers:**
+- The feeling of safety and security
+- Competitive salary
+- Health insurance.
+- Vacation, sick leave
+- In the future there is a possibility to relocate to the United States.
+- Free food and drinks.
+- Discounts for employees at HP, Apple and Verizon
+- Gym, showers, tennis
+
+[Send CV](http://jobs.zhuko.net/?id=2690&ref=5)
+
+---
 
 ## Витебск
 
