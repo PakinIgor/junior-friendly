@@ -1,6 +1,6 @@
 ## Работа
 
-### [<img src="logo/incognito.jpg"> Инкогнито]
+### <img src="logo/incognito.jpg"> Инкогнито
 
 **Удаленно**
 
