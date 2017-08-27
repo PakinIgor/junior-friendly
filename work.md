@@ -1,6 +1,6 @@
 ## Работа
 
-### [<img src="logo/kaspersky_logo.jpg" Лаборатория Касперского>](https://www.kaspersky.ru/) ✅
+### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) ✅
 
 **Москва**
 
