@@ -55,6 +55,7 @@
 - Коммерческий опыт разработки (пара проектов).
 
 Пишите на [code@betaagency.ru](mailto:code@betaagency.ru)
+
 ---
 
 ### [<img src="logo/fulldive.png"> Fulldive corp](http://fulldive.com/)
