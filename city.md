@@ -1264,7 +1264,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 Вакансии регулярно открываются в течение года в Санкт-Петербургском центре разработок.
 
-Резюме отправлять на [Anastasia.Solovyeva@emc.com](mailto:Anastasia.Solovyeva@emc.com) или [Mikhail.Salamatov@emc.com](mailto:Mikhail.Salamatov@emc.com).
+Резюме отправлять [Anastasia.Solovyeva@emc.com](mailto:Anastasia.Solovyeva@emc.com) или [Mikhail.Salamatov@emc.com](mailto:Mikhail.Salamatov@emc.com).
 
 Ещё подробней о стажировках можно почитать [тут](https://russia.emc.com/collateral/campaign/global/centre-of-excellence/career-for-students.pdf) и [тут](https://habrahabr.ru/company/dellemc/blog/273197/) :)
 
