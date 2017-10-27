@@ -1,5 +1,25 @@
 ## Работа
 
+### [<img src="logo/dellemc.jpg"> Dell EMC](https://www.dellemc.com/ru-ru/index.htm)
+
+**Санкт-Петербург**
+
+#### Internship
+
+Интерны в Dell EMC выполняют задачи в реальных проектах в различных областях - от администрирования систем хранения данных до фронтенд разработки.
+
+У нас гибкий график, и мы ждём ребят-студентов, начиная с 3-го курса. Мы понимаем, что у студентов случаются :) сессии, поэтому количество рабочих часов можно динамически менять (от 20 до 40 часов в неделю).
+
+Мы заключаем контракт с нашими интернами и платим за стажировку. После окончания университета конвертируем их на full-time инженерные позиции.
+
+Вакансии регулярно открываются в течение года в Санкт-Петербургском центре разработок.
+
+Резюме отправлять на [Anastasia.Solovyeva@emc.com](mailto:Anastasia.Solovyeva@emc.com) или [Mikhail.Salamatov@emc.com](mailto:Mikhail.Salamatov@emc.com).
+
+Ещё подробней о стажировках можно почитать [тут](https://russia.emc.com/collateral/campaign/global/centre-of-excellence/career-for-students.pdf) и [тут](https://habrahabr.ru/company/dellemc/blog/273197/) :)
+
+---
+
 ### [<img src="logo/TribunaDigital.png"> Tribuna.Digital](http://tribuna.digital/)
 
 **Москва**
