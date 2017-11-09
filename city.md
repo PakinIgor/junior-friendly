@@ -1034,7 +1034,7 @@ _Будет плюсом:_
 
 Хорошая оплата на протяжении всей стажировки.
 
-Высылать резюме на адрес: [blohin.o.d@gmail.com](mailto:blohin.o.d@gmail.com)
+[Отправить резюме](https://www.applytracking.com/optin.aspx?c=39FaE%2bMO99zAE47D2lfrJJ%2fJZVgw7dQW&tags=GAM_US_Diversity_Q1_2017,GAM_US_Diversity&_ga=2.125931844.871849554.1510210407-1402460973.1510210048)
 
 ---
 
