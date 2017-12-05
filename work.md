@@ -795,7 +795,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ### [<img src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/)
 
-**Москва**
+**Ярославль**
 
 #### [Начинающий веб-разработчик](http://www.arealidea.ru/vacancy/nachinayushchiy-veb-razrabotchik/)
 
