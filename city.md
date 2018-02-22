@@ -233,6 +233,19 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ## Казань
 
+### [<img src="logo/ICL.svg"> ICL](http://www.icl.ru/)
+
+**Казань**
+
+1. [Стажер по поддержке приложений](http://www.icl.ru/career/jobs/students/stazher-po-podderzhke-prilozheniy-20012474/)
+2. [Стажер тестировщик](http://www.icl.ru/career/jobs/students/stazher-testirovshchik-20010256/)
+3. [Программист-стажер](http://www.icl.ru/career/jobs/students/programmist-stazher-20006752/)
+4. [СТАЖЕР UNIX](http://www.icl.ru/career/jobs/students/stazher-unix-19567727/)
+5. [СТАЖЕР ПО АДМИНИСТРИРОВАНИЮ](http://www.icl.ru/career/jobs/students/stazher-po-administrirovaniyu-19998009/)
+6. [СТАЖЕР-РАЗРАБОТЧИК (1С)](http://www.icl.ru/career/jobs/students/stazher-razrabotchik-1s-19758767/)
+
+---
+
 ### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
@@ -1731,4 +1744,3 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 Писать: [job@arealidea.ru](mailto:job@arealidea.ru)
 ***
-
