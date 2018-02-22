@@ -86,15 +86,17 @@
 
 ### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
-Москва, Воронеж
+Москва, Воронеж, Новосибирск
 
 #### Список вакансий для молодых специалистов
 
-1. [Стажер - разработчик DWH (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-voronezh/);
-2. [Стажер-разработчик](https://www.at-consulting.ru/career/students/razrabotka-po/stazher-razrabotchik/);
-3. [Стажер - разработчик Java (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-java-voronezh/);
+1. [Тестировщик (Новосибирск)](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik-novosibirsk/);
+2. [Стажер-тестировщик](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik/);
+3. [Junior front-end developer](https://www.at-consulting.ru/career/students/razrabotka-po/junior-front-end-developer/);
 4. [Java Junior developer](https://www.at-consulting.ru/career/students/razrabotka-po/java-junior-developer/);
-5. [Junior Front-end Developer](https://www.at-consulting.ru/career/students/razrabotka-po/junior-front-end-developer/).
+5. [Стажер - разработчик dwh (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-voronezh/)
+6. [Стажер-разработчик](https://www.at-consulting.ru/career/students/razrabotka-po/stazher-razrabotchik/)
+7. [Стажер - разработчик JAVA (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-java-voronezh/)
 
 ***
 
@@ -843,7 +845,7 @@ _Будет плюсом:_
 
 ### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
-Москва, Воронеж
+Москва, Воронеж, Новосибирск
 
 #### Список вакансий для молодых специалистов
 
@@ -1057,6 +1059,22 @@ _Будет плюсом:_
 ---
 
 ## Новосибирск
+
+### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
+
+Москва, Воронеж, Новосибирск
+
+#### Список вакансий для молодых специалистов
+
+1. [Тестировщик (Новосибирск)](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik-novosibirsk/);
+2. [Стажер-тестировщик](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik/);
+3. [Junior front-end developer](https://www.at-consulting.ru/career/students/razrabotka-po/junior-front-end-developer/);
+4. [Java Junior developer](https://www.at-consulting.ru/career/students/razrabotka-po/java-junior-developer/);
+5. [Стажер - разработчик dwh (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-voronezh/)
+6. [Стажер-разработчик](https://www.at-consulting.ru/career/students/razrabotka-po/stazher-razrabotchik/)
+7. [Стажер - разработчик JAVA (Воронеж)](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-java-voronezh/)
+
+***
 
 ### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
 
