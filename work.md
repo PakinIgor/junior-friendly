@@ -1,5 +1,24 @@
 ## Работа
 
+### [<img src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
+
+**Санкт-Петербург, Новосибирск**
+
+#### Junior / Middle разработчик на Java
+
+Требования:
+- Опыт работы программистом на Java от 1 года
+- Базовые знания Computer Science - алгоритмы, структуры данных, concurrency и т.д.
+- Системный подход при поиске информации
+- Принятие принципов командной работы и Agile
+- Знание устройства операционных систем, принципов работы ЛВС
+- Опыт работы с Linux на уровне продвинутого пользователя
+
+[Новосибирск](https://job.billing.ru/job/junior-middle-razrabotchik-na-java)
+[Санкт-Петербург](https://job.billing.ru/job/junior-middle-java-developer)
+
+---
+
 ### [<img src="logo/devjs.png"> Новые технологии](http://devjs.ru/)
 
 **Санкт-Петербург**
@@ -218,38 +237,6 @@ _Будет плюсом:_
 Опыт работы с Postfix/Exchange;
 
 [Откликнуться на вакансию](https://spb.hh.ru/vacancy/22253761)
-
----
-
-### <img src="logo/incognito.jpg"> Инкогнито
-
-**Удаленно**
-
-#### Junior security engineer
-
-**Must have:**
-- Basic Understanding of the Linux internals
-- Basic understanding of attacks, web, low level vulnerabilities
-- Experience with running automated vulnerability scanners and should have worked with vulnerability management systems
-- Experience with Scripting languages is a plus
-- Deep understanding of Database systems, understanding of Hadoop is a must
-- Should be used to doing RCA and propose/implement solutions.
-- Basic understanding of VPN and various VPN protocols (SSH, IPSec, openvpn)
-- Basic understanding of DNS, HTTP, HTTPS protocols.
-- Should be able to multi-task and prioritize.
-- Most of all must be able to run database queries and understand results.
-
-**The company offers:**
-- The feeling of safety and security
-- Competitive salary
-- Health insurance.
-- Vacation, sick leave
-- In the future there is a possibility to relocate to the United States.
-- Free food and drinks.
-- Discounts for employees at HP, Apple and Verizon
-- Gym, showers, tennis
-
-[Send CV](http://jobs.zhuko.net/?id=2690&ref=5)
 
 ---
 
@@ -683,7 +670,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
-**Москва, Воронежб Новосибирск**
+**Москва, Воронеж, Новосибирск**
 
 #### Список вакансий для молодых специалистов
 

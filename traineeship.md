@@ -7,9 +7,9 @@
 1. [Стажер по поддержке приложений](http://www.icl.ru/career/jobs/students/stazher-po-podderzhke-prilozheniy-20012474/)
 2. [Стажер тестировщик](http://www.icl.ru/career/jobs/students/stazher-testirovshchik-20010256/)
 3. [Программист-стажер](http://www.icl.ru/career/jobs/students/programmist-stazher-20006752/)
-4. [СТАЖЕР UNIX](http://www.icl.ru/career/jobs/students/stazher-unix-19567727/)
-5. [СТАЖЕР ПО АДМИНИСТРИРОВАНИЮ](http://www.icl.ru/career/jobs/students/stazher-po-administrirovaniyu-19998009/)
-6. [СТАЖЕР-РАЗРАБОТЧИК (1С)](http://www.icl.ru/career/jobs/students/stazher-razrabotchik-1s-19758767/)
+4. [Стажер UNIX](http://www.icl.ru/career/jobs/students/stazher-unix-19567727/)
+5. [Стажер по администрированию](http://www.icl.ru/career/jobs/students/stazher-po-administrirovaniyu-19998009/)
+6. [Стажер-разработчик (1С)](http://www.icl.ru/career/jobs/students/stazher-razrabotchik-1s-19758767/)
 
 ---
 
@@ -220,23 +220,6 @@
 Первый месяц стажировки отводится на теоретическую подготовку, и вхождение в должность, после чего студенты осваивают практическую сторону профессии на реальных проектах под наблюдением куратора.
 
 [Отправить заявку](https://www.infowatch.ru/about/career/traineeship)
-
----
-
-### [<img src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
-
-**Санкт-Петербург, Краснодар, Самара**
-
-#### Летняя оплачиваемая стажировка
-
-1. Стажировки проходят в наших офисах в Санкт-Петербурге, Краснодаре и Самаре.
-2. Работа по 8 часов в день в течение 1,5 - 2 месяцев в июле и августе.
-3. Мы оплачиваем работу стажеров!
-4. Мы предоставляем каждому стажеру персонального наставника, который разработает для вас индивидуальный план стажировки и посвятит во все тонкости профессии.
-
-Прием заявок до 16 мая.
-
-[Узнать подробности](http://job.billing.ru/probation)
 
 ---
 
