@@ -1,6 +1,13 @@
+<style>
+  img {
+    max-width: 48px;
+    max-height: 48px;
+  }
+</style>
+
 ## Стажировка
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/cetera.svg"> Cetera](https://cetera.ru/)
+### [<img src="logo/cetera.svg"> Cetera](https://cetera.ru/)
 
 **Ярославль**
 
@@ -16,7 +23,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/redis.png"> Redis](http://www.red-is.ru/)
+### [<img src="logo/redis.png"> Redis](http://www.red-is.ru/)
 
 **Тверь**
 
@@ -28,7 +35,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/ICL.svg"> ICL](http://www.icl.ru/)
+### [<img src="logo/ICL.svg"> ICL](http://www.icl.ru/)
 
 **Казань**
 
@@ -41,7 +48,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/chitay_gorod.jpg"> Читай-город](https://www.chitai-gorod.ru/)
+### [<img src="logo/chitay_gorod.jpg"> Читай-город](https://www.chitai-gorod.ru/)
 
 **Москва**
 
@@ -69,7 +76,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/cpeople.jpg"> CreativePeople](https://cpeople.ru/)
+### [<img src="logo/cpeople.jpg"> CreativePeople](https://cpeople.ru/)
 
 **Севастополь**
 
@@ -93,7 +100,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/mts_bank.png"> МТС Банк](http://www.mtsbank.ru/) ✅
+### [<img src="logo/mts_bank.png"> МТС Банк](http://www.mtsbank.ru/) ✅
 
 **Москва**
 
@@ -106,7 +113,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/onetrak.jpg"> ONETRAK](https://onetrak.ru/)
+### [<img src="logo/onetrak.jpg"> ONETRAK](https://onetrak.ru/)
 
 **Москва**
 
@@ -123,7 +130,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/Intel.png"> Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
+### [<img src="logo/Intel.png"> Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
 
 **Нижний Новгород**
 
@@ -139,7 +146,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/selectel.png"> Selectel](https://selectel.ru/) ✅
+### [<img src="logo/selectel.png"> Selectel](https://selectel.ru/) ✅
 
 **Санкт-Петербург**
 
@@ -163,7 +170,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/chulakov.png"> Студия Олега Чулакова](http://chulakov.ru/)
+### [<img src="logo/chulakov.png"> Студия Олега Чулакова](http://chulakov.ru/)
 
 **Ростов-на-Дону**
 
@@ -175,7 +182,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/oggetto.png"> Oggetto](http://oggettoweb.ru/)
+### [<img src="logo/oggetto.png"> Oggetto](http://oggettoweb.ru/)
 
 **Москва**
 
@@ -187,7 +194,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 **Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы**
 
@@ -206,7 +213,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/info.png"> InfoWatch](https://www.infowatch.ru/)
+### [<img src="logo/info.png"> InfoWatch](https://www.infowatch.ru/)
 
 **Москва**
 
@@ -220,7 +227,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](http://www.kaspersky.ru/)
+### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](http://www.kaspersky.ru/)
 
 **Москва**
 
@@ -237,7 +244,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 **Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань**
 
@@ -255,7 +262,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/kfy.jpg"> Казанский федеральный университет](http://kpfu.ru/) ✅
+### [<img src="logo/kfy.jpg"> Казанский федеральный университет](http://kpfu.ru/) ✅
 
 **Казань**
 
@@ -272,7 +279,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
+### [<img src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
 
 **Москва, Санкт-Петербург, Воронеж**
 
@@ -288,7 +295,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
+### [<img src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
 
 **Москва, Санкт-Петербург, Новосибирск**
 
@@ -300,7 +307,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/mail.png"> Mail.ru Group](https://corp.mail.ru/ru/)
+### [<img src="logo/mail.png"> Mail.ru Group](https://corp.mail.ru/ru/)
 
 **Москва**
 
@@ -313,7 +320,7 @@
 
 ---
 
-### [<img style="max-width:48px; max-height:48px"" src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
+### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
 
 **Москва, Санкт-Петербург, Екатеринбург и Минск**
 
