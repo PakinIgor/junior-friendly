@@ -2,7 +2,7 @@
 
 ## Работа
 
-### [<img src="logo/invert.svg"> Invert](https://intaro.ru/)
+### [<img class="logo" src="logo/invert.svg"> Invert](https://intaro.ru/)
 
 **Липецк**
 
@@ -19,7 +19,7 @@
 
 ---
 
-### [<img src="logo/klondike.jpg"> Клондайк](https://klondike-studio.ru/)
+### [<img class="logo" src="logo/klondike.jpg"> Клондайк](https://klondike-studio.ru/)
 
 **Москва**
 
@@ -36,7 +36,7 @@
 
 ---
 
-### [<img src="logo/jetstyle.jpg"> JetStyle](https://jetstyle.ru/) ✅
+### [<img class="logo" src="logo/jetstyle.jpg"> JetStyle](https://jetstyle.ru/) ✅
 
 **Екатеринбург**
 
@@ -56,7 +56,7 @@
 
 ---
 
-### [<img src="logo/techart.svg"> Techart](https://techart.ru/)
+### [<img class="logo" src="logo/techart.svg"> Techart](https://techart.ru/)
 
 **Тула**
 
@@ -77,7 +77,7 @@
 
 ---
 
-### [<img src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
+### [<img class="logo" src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
 
 **Санкт-Петербург, Новосибирск**
 
@@ -96,7 +96,7 @@
 
 ---
 
-### [<img src="logo/devjs.png"> Новые технологии](http://devjs.ru/)
+### [<img class="logo" src="logo/devjs.png"> Новые технологии](http://devjs.ru/)
 
 **Санкт-Петербург**
 
@@ -134,7 +134,7 @@
 
 ---
 
-### [<img src="logo/dellemc.jpg"> Dell EMC](https://www.dellemc.com/ru-ru/index.htm)
+### [<img class="logo" src="logo/dellemc.jpg"> Dell EMC](https://www.dellemc.com/ru-ru/index.htm)
 
 **Санкт-Петербург**
 
@@ -154,7 +154,7 @@
 
 ---
 
-### [<img src="logo/TribunaDigital.png"> Tribuna.Digital](http://tribuna.digital/)
+### [<img class="logo" src="logo/TribunaDigital.png"> Tribuna.Digital](http://tribuna.digital/)
 
 **Москва**
 
@@ -179,7 +179,7 @@
 
 ---
 
-### [<img src="logo/beta.png"> Beta Digital Production](http://betaagency.ru/) ✅
+### [<img class="logo" src="logo/beta.png"> Beta Digital Production](http://betaagency.ru/) ✅
 
 **Москва**
 
@@ -212,7 +212,7 @@
 
 ---
 
-### [<img src="logo/fulldive.png"> Fulldive corp](http://fulldive.com/)
+### [<img class="logo" src="logo/fulldive.png"> Fulldive corp](http://fulldive.com/)
 
 **Санкт-Петербург**
 
@@ -232,7 +232,7 @@
 
 ---
 
-### [<img src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/)
+### [<img class="logo" src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/)
 
 **Санкт-Петербург**
 
@@ -252,7 +252,7 @@
 
 ---
 
-### [<img src="logo/n-core.png"> Энкор](https://n-core.ru/) ✅
+### [<img class="logo" src="logo/n-core.png"> Энкор](https://n-core.ru/) ✅
 
 **Москва**
 
@@ -289,7 +289,7 @@
 
 ---
 
-### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) ✅
+### [<img class="logo" src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) ✅
 
 **Москва**
 
@@ -318,7 +318,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/dataart.jpg"> DataArt](http://dataart.ua/)
+### [<img class="logo" src="logo/dataart.jpg"> DataArt](http://dataart.ua/)
 
 **Киев**
 
@@ -343,7 +343,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/languagelink.png"> Language Link](http://www.languagelink.ru/)
+### [<img class="logo" src="logo/languagelink.png"> Language Link](http://www.languagelink.ru/)
 
 **Москва**
 
@@ -389,7 +389,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/hawkhouse.png"> Hawkhouse](http://www.hawkhouse.ru/)
+### [<img class="logo" src="logo/hawkhouse.png"> Hawkhouse](http://www.hawkhouse.ru/)
 
 **Москва**
 
@@ -407,7 +407,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/greenmars.png"> GreenMars](https://greenmars.ru/) ✅
+### [<img class="logo" src="logo/greenmars.png"> GreenMars](https://greenmars.ru/) ✅
 
 **Москва**
 
@@ -424,7 +424,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
+### [<img class="logo" src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
 
 **Ростов-на-Дону***
 
@@ -453,7 +453,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/forasoft.png"> ForaSoft](https://forasoft.com/ru/) ✅
+### [<img class="logo" src="logo/forasoft.png"> ForaSoft](https://forasoft.com/ru/) ✅
 
 **Санкт-Петербург**
 
@@ -502,7 +502,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/redgraphic.png"> Red Graphic](http://redgraphic.ru/)
+### [<img class="logo" src="logo/redgraphic.png"> Red Graphic](http://redgraphic.ru/)
 
 **Минск**
 
@@ -520,7 +520,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/borovogo.png"> Студия Борового](http://www.db.by/)
+### [<img class="logo" src="logo/borovogo.png"> Студия Борового](http://www.db.by/)
 
 **Минск**
 
@@ -537,7 +537,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/)
+### [<img class="logo" src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/)
 
 **Москва**
 
@@ -553,7 +553,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/dalee.png"> Далее](http://www.dalee.ru/) ✅
+### [<img class="logo" src="logo/dalee.png"> Далее](http://www.dalee.ru/) ✅
 
 **Москва**
 
@@ -574,7 +574,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/sabaka.jpg"> Sabaka](https://sabaka.io/)
+### [<img class="logo" src="logo/sabaka.jpg"> Sabaka](https://sabaka.io/)
 
 **Москва**
 
@@ -596,7 +596,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/mintrocket.jpg"> MintRocket](http://mintrocket.ru/) ✅
+### [<img class="logo" src="logo/mintrocket.jpg"> MintRocket](http://mintrocket.ru/) ✅
 
 **Тюмень**
 
@@ -648,7 +648,7 @@ _Будет плюсом:_
 
 ---
 
-### <img src="logo/mel.jpg"> Мел ✅
+### <img class="logo" src="logo/mel.jpg"> Мел ✅
 
 **Москва**
 
@@ -695,7 +695,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/elins.png"> НТЦ Элинс](http://www.elins.ru/) ✅
+### [<img class="logo" src="logo/elins.png"> НТЦ Элинс](http://www.elins.ru/) ✅
 
 **Зеленоград**
 
@@ -713,7 +713,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) ✅
+### [<img class="logo" src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) ✅
 
 **Санкт-Петербург**
 
@@ -729,7 +729,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/i-teco.png"> Айтеко](http://www.i-teco.ru/)
+### [<img class="logo" src="logo/i-teco.png"> Айтеко](http://www.i-teco.ru/)
 
 **Москва**
 
@@ -746,7 +746,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
+### [<img class="logo" src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
 **Москва, Воронеж, Новосибирск**
 
@@ -762,7 +762,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/krok.png"> Крок](http://www.croc.ru/)
+### [<img class="logo" src="logo/krok.png"> Крок](http://www.croc.ru/)
 
 **Москва, Нижний Новгород, Самара**
 
@@ -780,7 +780,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/it-energy.png"> IT Energy](http://www.it-energy.ru/)
+### [<img class="logo" src="logo/it-energy.png"> IT Energy](http://www.it-energy.ru/)
 
 **Москва**
 
@@ -803,7 +803,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/cinimex.png"> Cinimex] (http://www.cinimex.ru/)
+### [<img class="logo" src="logo/cinimex.png"> Cinimex] (http://www.cinimex.ru/)
 
 **Москва**
 
@@ -814,7 +814,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/Extyl-PRO.gif"> Extyl-PRO](https://www.extyl-pro.ru/)
+### [<img class="logo" src="logo/Extyl-PRO.gif"> Extyl-PRO](https://www.extyl-pro.ru/)
 
 Москва
 
@@ -830,7 +830,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 Писать: [resume@extyl-pro.ru](mailto:resume@extyl-pro.ru).
 ***
 
-### [<img src="logo/mediasoft.png"> Mediasoft](http://php73.ru/)
+### [<img class="logo" src="logo/mediasoft.png"> Mediasoft](http://php73.ru/)
 
 **Ульяновск**
 
@@ -845,7 +845,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/artsofte.png"> Artsofte](https://www.artsofte.ru/)
+### [<img class="logo" src="logo/artsofte.png"> Artsofte](https://www.artsofte.ru/)
 
 **Екатеринбург**
 
@@ -860,7 +860,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/)
+### [<img class="logo" src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/)
 
 **Ярославль**
 
@@ -878,7 +878,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/sitesoft.png"> Сайтософт](https://www.sitesoft.ru/)
+### [<img class="logo" src="logo/sitesoft.png"> Сайтософт](https://www.sitesoft.ru/)
 
 **Екатеринбург**
 
@@ -900,7 +900,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/funbox.png"> FunBox](http://funbox.ru/ulsk) ✅
+### [<img class="logo" src="logo/funbox.png"> FunBox](http://funbox.ru/ulsk) ✅
 
 **Ульяновск**
 
@@ -920,7 +920,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
+### [<img class="logo" src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
 
 **Новосибирск**
 

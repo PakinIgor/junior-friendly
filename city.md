@@ -32,7 +32,7 @@
 
 ## Витебск
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -53,7 +53,7 @@
 
 ## Воронеж
 
-### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
+### [<img class="logo" src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
 Москва, Воронеж, Новосибирск
 
@@ -69,7 +69,7 @@
 
 ***
 
-### [<img src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
+### [<img class="logo" src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
 
 Москва, Санкт-Петербург, Воронеж
 
@@ -87,7 +87,7 @@
 
 ## Екатеринбург
 
-### [<img src="logo/jetstyle.jpg"> JetStyle](https://jetstyle.ru/) ✅
+### [<img class="logo" src="logo/jetstyle.jpg"> JetStyle](https://jetstyle.ru/) ✅
 
 **Екатеринбург**
 
@@ -107,7 +107,7 @@
 
 ---
 
-### [<img src="logo/artsofte.png"> Artsofte](https://www.artsofte.ru/)
+### [<img class="logo" src="logo/artsofte.png"> Artsofte](https://www.artsofte.ru/)
 
 Екатеринбург
 
@@ -121,7 +121,7 @@
 Писать: [hr@artsofte.ru](mailto:hr@artsofte.ru).
 ***
 
-### [<img src="logo/sitesoft.png"> Сайтософт](https://www.sitesoft.ru/)
+### [<img class="logo" src="logo/sitesoft.png"> Сайтософт](https://www.sitesoft.ru/)
 
 Екатеринбург
 
@@ -142,7 +142,7 @@
 [Откликнуться на вакансию](https://hh.ru/vacancy/19511257)
 ***
 
-### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img class="logo" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
 
@@ -159,7 +159,7 @@
 [Посмотреть подробности](https://kontur.ru/education/programs/intern/2017)
 ***
 
-### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
+### [<img class="logo" src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
 
 Москва, Санкт-Петербург, Екатеринбург и Минск
 
@@ -177,7 +177,7 @@
 
 ## Зеленоград
 
-### [<img src="logo/elins.png"> НТЦ Элинс](http://www.elins.ru/) ✅
+### [<img class="logo" src="logo/elins.png"> НТЦ Элинс](http://www.elins.ru/) ✅
 
 Зеленоград
 
@@ -197,7 +197,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ## Казань
 
-### [<img src="logo/ICL.svg"> ICL](http://www.icl.ru/)
+### [<img class="logo" src="logo/ICL.svg"> ICL](http://www.icl.ru/)
 
 Казань
 
@@ -210,7 +210,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img class="logo" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
 
@@ -227,7 +227,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 [Посмотреть подробности](https://kontur.ru/education/programs/intern/2017)
 ***
 
-### [<img src="logo/kfy.jpg"> Казанский федеральный университет](http://kpfu.ru/) ✅
+### [<img class="logo" src="logo/kfy.jpg"> Казанский федеральный университет](http://kpfu.ru/) ✅
 
 Казань
 
@@ -246,7 +246,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ## Ижевск
 
-### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img class="logo" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
 
@@ -266,7 +266,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ## Киев
 
-### [<img src="logo/dataart.jpg"> DataArt](http://dataart.ua/)
+### [<img class="logo" src="logo/dataart.jpg"> DataArt](http://dataart.ua/)
 
 Киев
 
@@ -291,7 +291,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -312,7 +312,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ## Липецк
 
-### [<img src="logo/invert.svg"> Invert](https://intaro.ru/)
+### [<img class="logo" src="logo/invert.svg"> Invert](https://intaro.ru/)
 
 Липецк
 
@@ -360,7 +360,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ***
 
-### [<img src="logo/redgraphic.png"> Red Graphic](http://redgraphic.ru/)
+### [<img class="logo" src="logo/redgraphic.png"> Red Graphic](http://redgraphic.ru/)
 
 Минск
 
@@ -378,7 +378,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ***
 
-### [<img src="logo/borovogo.png"> Студия Борового](http://www.db.by/)
+### [<img class="logo" src="logo/borovogo.png"> Студия Борового](http://www.db.by/)
 
 Минск
 
@@ -395,7 +395,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ***
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -413,7 +413,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 - [s.volodina@andersenlab.com](mailto:s.volodina@andersenlab.com)
 ***
 
-### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
+### [<img class="logo" src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
 
 Москва, Санкт-Петербург, Екатеринбург и Минск
 
@@ -431,7 +431,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ## Москва
 
-### [<img src="logo/klondike.jpg"> Клондайк](https://klondike-studio.ru/)
+### [<img class="logo" src="logo/klondike.jpg"> Клондайк](https://klondike-studio.ru/)
 
 Москва
 
@@ -448,7 +448,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/oggetto.png"> Oggetto](http://oggettoweb.ru/)
+### [<img class="logo" src="logo/oggetto.png"> Oggetto](http://oggettoweb.ru/)
 
 Москва
 
@@ -460,7 +460,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/TribunaDigital.png"> Tribuna.Digital](http://tribuna.digital/)
+### [<img class="logo" src="logo/TribunaDigital.png"> Tribuna.Digital](http://tribuna.digital/)
 
 Москва
 
@@ -485,7 +485,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/beta.png"> Beta Digital Production](http://betaagency.ru/) ✅
+### [<img class="logo" src="logo/beta.png"> Beta Digital Production](http://betaagency.ru/) ✅
 
 Москва
 
@@ -518,7 +518,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/n-core.png"> Энкор](https://n-core.ru/) ✅
+### [<img class="logo" src="logo/n-core.png"> Энкор](https://n-core.ru/) ✅
 
 Москва
 
@@ -555,7 +555,7 @@ Rails проект на базе Redmine. Автоматизация произ�
 
 ---
 
-### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) ✅
+### [<img class="logo" src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) ✅
 
 Москва
 
@@ -584,7 +584,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/chitay_gorod.jpg"> Читай-город](https://www.chitai-gorod.ru/)
+### [<img class="logo" src="logo/chitay_gorod.jpg"> Читай-город](https://www.chitai-gorod.ru/)
 
 #### Программист-стажер
 
@@ -610,7 +610,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/languagelink.png"> Language Link](http://www.languagelink.ru/)
+### [<img class="logo" src="logo/languagelink.png"> Language Link](http://www.languagelink.ru/)
 
 Москва
 
@@ -656,7 +656,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/hawkhouse.png"> Hawkhouse](http://www.hawkhouse.ru/)
+### [<img class="logo" src="logo/hawkhouse.png"> Hawkhouse](http://www.hawkhouse.ru/)
 
 Москва
 
@@ -674,7 +674,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/mts_bank.png"> МТС Банк](http://www.mtsbank.ru/) ✅
+### [<img class="logo" src="logo/mts_bank.png"> МТС Банк](http://www.mtsbank.ru/) ✅
 
 Москва
 
@@ -687,7 +687,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/onetrak.jpg"> ONETRAK](https://onetrak.ru/)
+### [<img class="logo" src="logo/onetrak.jpg"> ONETRAK](https://onetrak.ru/)
 
 Москва
 
@@ -704,7 +704,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/greenmars.png"> GreenMars](https://greenmars.ru/) ✅
+### [<img class="logo" src="logo/greenmars.png"> GreenMars](https://greenmars.ru/) ✅
 
 #### Frontend-разработчик на 1/2 ставки (20 часов в неделю)
 
@@ -731,7 +731,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/)
+### [<img class="logo" src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/)
 
 Москва
 
@@ -747,7 +747,7 @@ _Будет плюсом:_
 
 ***
 
-### [<img src="logo/dalee.png"> Далее](http://www.dalee.ru/) ✅
+### [<img class="logo" src="logo/dalee.png"> Далее](http://www.dalee.ru/) ✅
 
 Москва
 
@@ -767,7 +767,7 @@ _Будет плюсом:_
 [Подробнее о вакансии](https://hh.ru/vacancy/19842476)
 ***
 
-### [<img src="logo/sabaka.jpg"> Sabaka](https://sabaka.io/)
+### [<img class="logo" src="logo/sabaka.jpg"> Sabaka](https://sabaka.io/)
 
 Москва
 
@@ -788,7 +788,7 @@ _Будет плюсом:_
 [Заполнить анкету](https://jobs.staya.vc/job/558?lang=ru)
 ***
 
-### <img src="logo/mel.jpg"> Мел ✅
+### <img class="logo" src="logo/mel.jpg"> Мел ✅
 
 Москва
 
@@ -834,7 +834,7 @@ _Будет плюсом:_
 [Откликнуться на вакансию](https://career.ru/vacancy/19761409)
 ***
 
-### [<img src="logo/i-teco.png"> Айтеко](http://www.i-teco.ru/)
+### [<img class="logo" src="logo/i-teco.png"> Айтеко](http://www.i-teco.ru/)
 
 Москва
 
@@ -850,7 +850,7 @@ _Будет плюсом:_
 Писать: [work@i-teco.ru](mailto:work@i-teco.ru).
 ***
 
-### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
+### [<img class="logo" src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
 Москва, Воронеж, Новосибирск
 
@@ -864,7 +864,7 @@ _Будет плюсом:_
 
 ***
 
-### [<img src="logo/krok.png"> Крок](http://www.croc.ru/)
+### [<img class="logo" src="logo/krok.png"> Крок](http://www.croc.ru/)
 
 Москва, Нижний Новгород, Самара
 
@@ -882,7 +882,7 @@ _Будет плюсом:_
 
 ***
 
-### [<img src="logo/it-energy.png"> IT Energy](http://www.it-energy.ru/)
+### [<img class="logo" src="logo/it-energy.png"> IT Energy](http://www.it-energy.ru/)
 
 Москва
 
@@ -904,7 +904,7 @@ _Будет плюсом:_
 [Получить эту работу](http://www.it-energy.ru/career/#snd)
 ***
 
-### [<img src="logo/cinimex.png"> Cinimex](http://www.cinimex.ru/)
+### [<img class="logo" src="logo/cinimex.png"> Cinimex](http://www.cinimex.ru/)
 
 Москва
 
@@ -914,7 +914,7 @@ _Будет плюсом:_
 [Подробнее о работодателе](http://welcome.cinimex.ru/)
 ***
 
-### [<img src="logo/Extyl-PRO.gif"> Extyl-PRO](https://www.extyl-pro.ru/)
+### [<img class="logo" src="logo/Extyl-PRO.gif"> Extyl-PRO](https://www.extyl-pro.ru/)
 
 Москва
 
@@ -930,7 +930,7 @@ _Будет плюсом:_
 Писать: [resume@extyl-pro.ru](mailto:resume@extyl-pro.ru).
 ***
 
-### [<img src="logo/mail.png"> Mail.ru Group](https://corp.mail.ru/ru/)
+### [<img class="logo" src="logo/mail.png"> Mail.ru Group](https://corp.mail.ru/ru/)
 
 Москва
 
@@ -942,7 +942,7 @@ _Будет плюсом:_
 [Зарегистрироваться](https://corp.mail.ru/ru/jobs/intern/).
 ***
 
-### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
+### [<img class="logo" src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
 
 Москва, Санкт-Петербург, Екатеринбург и Минск
 
@@ -957,7 +957,7 @@ _Будет плюсом:_
 [Хочу больше информации!](https://yandex.ru/jobs/internship).
 ***
 
-### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](http://www.kaspersky.ru/)
+### [<img class="logo" src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](http://www.kaspersky.ru/)
 
 Москва
 
@@ -973,7 +973,7 @@ _Будет плюсом:_
 [Узнать больше](http://safeboard.kaspersky.ru/)
 ***
 
-### [<img src="logo/info.png"> InfoWatch](https://www.infowatch.ru/)
+### [<img class="logo" src="logo/info.png"> InfoWatch](https://www.infowatch.ru/)
 
 Москва
 
@@ -986,7 +986,7 @@ _Будет плюсом:_
 [Отправить заявку](https://www.infowatch.ru/about/career/traineeship)
 ***
 
-### [<img src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
+### [<img class="logo" src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
 
 Москва, Санкт-Петербург, Воронеж
 
@@ -1001,7 +1001,7 @@ _Будет плюсом:_
 [Хочу больше информации](http://www.t-systems.ru/career/-----/1037764).
 ***
 
-### [<img src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
+### [<img class="logo" src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
 
 Москва, Санкт-Петербург, Новосибирск
 
@@ -1015,7 +1015,7 @@ _Будет плюсом:_
 
 ## Нижний Новгород
 
-### [<img src="logo/Intel.png"> Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
+### [<img class="logo" src="logo/Intel.png"> Intel](http://www.intel.ru/content/www/ru/ru/homepage.html) ✅
 
 Нижний Новгород
 
@@ -1031,7 +1031,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/krok.png"> Крок](http://www.croc.ru/)
+### [<img class="logo" src="logo/krok.png"> Крок](http://www.croc.ru/)
 
 Москва, Нижний Новгород, Самара
 
@@ -1051,7 +1051,7 @@ _Будет плюсом:_
 
 ## Новосибирск
 
-### [<img src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
+### [<img class="logo" src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
 
 **Санкт-Петербург, Новосибирск**
 
@@ -1070,7 +1070,7 @@ _Будет плюсом:_
 
 ---
 
-### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
+### [<img class="logo" src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/)
 
 Москва, Воронеж, Новосибирск
 
@@ -1086,7 +1086,7 @@ _Будет плюсом:_
 
 ***
 
-### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
+### [<img class="logo" src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
 
 Новосибирск
 
@@ -1101,7 +1101,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 Писать: [jobs@odin.com](mailto:jobs@odin.com)
 ***
 
-### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img class="logo" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
 
@@ -1118,7 +1118,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Посмотреть подробности](https://kontur.ru/education/programs/intern/2017)
 ***
 
-### [<img src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
+### [<img class="logo" src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
 
 Москва, Санкт-Петербург, Новосибирск
 
@@ -1132,7 +1132,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Одесса
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1153,7 +1153,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Пенза
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1174,7 +1174,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Ростов-на-Дону
 
-### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
+### [<img class="logo" src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
 
 #### Тестировщик
 
@@ -1188,7 +1188,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/chulakov.png"> Студия Олега Чулакова](http://chulakov.ru/)
+### [<img class="logo" src="logo/chulakov.png"> Студия Олега Чулакова](http://chulakov.ru/)
 
 Ростов-на-Дону
 
@@ -1200,7 +1200,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ***
 
-### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img class="logo" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
 
@@ -1220,7 +1220,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Полоцк
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1241,7 +1241,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Самара
 
-### [<img src="logo/krok.png"> Крок](http://www.croc.ru/)
+### [<img class="logo" src="logo/krok.png"> Крок](http://www.croc.ru/)
 
 Москва, Нижний Новгород, Самара
 
@@ -1261,7 +1261,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Санкт-Петербург
 
-### [<img src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
+### [<img class="logo" src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
 
 **Санкт-Петербург, Новосибирск**
 
@@ -1280,7 +1280,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/devjs.png"> Новые технологии](http://devjs.ru/)
+### [<img class="logo" src="logo/devjs.png"> Новые технологии](http://devjs.ru/)
 
 **Санкт-Петербург**
 
@@ -1317,7 +1317,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Это все про меня](https://spb.hh.ru/vacancy/23149710)
 ---
 
-### [<img src="logo/dellemc.jpg"> Dell EMC](https://www.dellemc.com/ru-ru/index.htm)
+### [<img class="logo" src="logo/dellemc.jpg"> Dell EMC](https://www.dellemc.com/ru-ru/index.htm)
 
 **Санкт-Петербург**
 
@@ -1337,7 +1337,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/fulldive.png"> Fulldive corp](http://fulldive.com/)
+### [<img class="logo" src="logo/fulldive.png"> Fulldive corp](http://fulldive.com/)
 
 Санкт-Петербург
 
@@ -1357,7 +1357,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/)
+### [<img class="logo" src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/)
 
 Санкт-Петербург
 
@@ -1377,7 +1377,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/forasoft.png"> ForaSoft](https://forasoft.com/ru/) ✅
+### [<img class="logo" src="logo/forasoft.png"> ForaSoft](https://forasoft.com/ru/) ✅
 
 Санкт-Петербург
 
@@ -1397,7 +1397,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ***
 
-### [<img src="logo/selectel.png"> Selectel](https://selectel.ru/) ✅
+### [<img class="logo" src="logo/selectel.png"> Selectel](https://selectel.ru/) ✅
 
 Санкт-Петербург
 
@@ -1421,7 +1421,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ***
 
-### [<img src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) ✅
+### [<img class="logo" src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) ✅
 
 Санкт-Петербург
 
@@ -1436,7 +1436,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Получить эту работу!](https://careers.veeam.ru/vacancies/global-marketing/html-specialist-1659)
 ***
 
-### [<img src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
+### [<img class="logo" src="logo/peter.png"> Петер-Сервис](https://www.billing.ru/)
 
 Санкт-Петербург, Краснодар, Самара
 
@@ -1452,7 +1452,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Узнать подробности](http://job.billing.ru/probation)
 ***
 
-### [<img src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
+### [<img class="logo" src="logo/skb_kontur.jpg"> СКБ Контур](https://kontur.ru/about)
 
 Екатеринбург, Новосибирск, Ижевск, Ростов-на-Дону, Санкт-Петербург, Казань
 
@@ -1469,7 +1469,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Посмотреть подробности](https://kontur.ru/education/programs/intern/2017)
 ***
 
-### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
+### [<img class="logo" src="logo/ya.jpg"> Яндекс](https://yandex.ru/)
 
 Москва, Санкт-Петербург, Екатеринбург и Минск
 
@@ -1484,7 +1484,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Хочу больше информации!](https://yandex.ru/jobs/internship).
 ***
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1502,7 +1502,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 - [s.volodina@andersenlab.com](mailto:s.volodina@andersenlab.com)
 ***
 
-### [<img src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
+### [<img class="logo" src="logo/t.jpg"> T-systems](http://www.t-systems.ru/)
 
 Москва, Санкт-Петербург, Воронеж
 
@@ -1517,7 +1517,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 [Хочу больше информации](http://www.t-systems.ru/career/-----/1037764).
 ***
 
-### [<img src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
+### [<img class="logo" src="logo/jb.png"> JetBrains](http://jetbrains.ru/)
 
 Москва, Санкт-Петербург, Новосибирск
 
@@ -1531,7 +1531,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Севастополь
 
-### [<img src="logo/cpeople.jpg"> CreativePeople](https://cpeople.ru/)
+### [<img class="logo" src="logo/cpeople.jpg"> CreativePeople](https://cpeople.ru/)
 
 Севастополь
 
@@ -1557,7 +1557,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Тверь
 
-### [<img src="logo/redis.png"> Redis](http://www.red-is.ru/)
+### [<img class="logo" src="logo/redis.png"> Redis](http://www.red-is.ru/)
 
 Тверь
 
@@ -1571,7 +1571,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Тула
 
-### [<img src="logo/techart.svg"> Techart](https://techart.ru/)
+### [<img class="logo" src="logo/techart.svg"> Techart](https://techart.ru/)
 
 Тула
 
@@ -1594,7 +1594,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Тюмень
 
-### [<img src="logo/mintrocket.jpg"> MintRocket](http://mintrocket.ru/) ✅
+### [<img class="logo" src="logo/mintrocket.jpg"> MintRocket](http://mintrocket.ru/) ✅
 
 Тюмень
 
@@ -1648,7 +1648,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Ульяновск
 
-### [<img src="logo/mediasoft.png"> Mediasoft](http://php73.ru/)
+### [<img class="logo" src="logo/mediasoft.png"> Mediasoft](http://php73.ru/)
 
 Ульяновск
 
@@ -1662,7 +1662,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 Писать: [job@php73.ru](mailto:job@php73.ru).
 ***
 
-### [<img src="logo/funbox.png"> FunBox](http://funbox.ru/ulsk) ✅
+### [<img class="logo" src="logo/funbox.png"> FunBox](http://funbox.ru/ulsk) ✅
 
 Ульяновск
 
@@ -1684,7 +1684,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Харьков
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1705,7 +1705,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Черкассы
 
-### [<img src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
+### [<img class="logo" src="logo/ucoz.png"> uCoz](http://www.ucoz.ru/) ✅
 
 #### Специалист технической поддержки
 
@@ -1719,7 +1719,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1740,7 +1740,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Чернигов
 
-### [<img src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
+### [<img class="logo" src="logo/andersen.png"> Andersen](http://www.andersenlab.com/ru) ✅
 
 Витебск, Минск, Одесса, Пенза, Полоцк, Санкт-Петербург, Чернигов, Киев, Харьков, Черкассы
 
@@ -1759,7 +1759,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ## Ярославль
 
-### [<img src="logo/cetera.svg"> Cetera](https://cetera.ru/)
+### [<img class="logo" src="logo/cetera.svg"> Cetera](https://cetera.ru/)
 
 Ярославль
 
@@ -1775,7 +1775,7 @@ ODIN (Ingram Micro) – мы разрабатываем глобальную д�
 
 ---
 
-### [<img src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/)
+### [<img class="logo" src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/)
 
 Ярославль
 
