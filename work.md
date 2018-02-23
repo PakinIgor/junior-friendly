@@ -1,9 +1,4 @@
-<style>
-  img {
-    max-width: 48px;
-    max-height: 48px;
-  }
-</style>
+<link href="style.css" rel="stylesheet"></link>
 
 ## Работа
 
