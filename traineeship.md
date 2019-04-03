@@ -223,4 +223,20 @@
 
 Писать: [personal@infocraft.ru](mailto:personal@infocraft.ru)
 
---
+---
+
+### [<img src="logo/scout.svg"> Скаут](https://scout-gps.ru/)
+
+**Санкт-Петербург**
+
+#### Летняя стажировка
+
+Направления стажировок:
+1. аналитика данных;
+2. разработка;
+3. тестирование и QA;
+4. менеджмент в IT;
+5. системное администрирование;
+6. маркетинг.
+
+[Хочу больше информации](https://m-rabota.scout-gps.ru/projects/it-pogruzhenie/).
