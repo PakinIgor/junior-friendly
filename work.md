@@ -1,6 +1,6 @@
 ## Работа
 
-### [<img src="logo/invert.png"> Invert](https://intaro.ru/) ✅
+### [<img src="logo/invert.png"> Invert](https://intaro.ru/) 
 
 **Москва**
 
@@ -18,7 +18,7 @@
 
 ---
 
-### [<img src="logo/klondike.jpg"> Клондайк](https://klondike-studio.ru/) ✅
+### [<img src="logo/klondike.jpg"> Клондайк](https://klondike-studio.ru/) 
 
 **Москва**
 
@@ -35,7 +35,7 @@
 
 ---
 
-### [<img src="logo/techart.svg"> Techart](https://techart.ru/) ✅
+### [<img src="logo/techart.svg"> Techart](https://techart.ru/) 
 
 **Тула**
 
@@ -56,7 +56,7 @@
 
 ---
 
-### [<img src="logo/beta.png"> Beta Digital Production](http://betaagency.ru/) ✅
+### [<img src="logo/beta.png"> Beta Digital Production](http://betaagency.ru/) 
 
 **Москва**
 
@@ -77,7 +77,7 @@
 
 ---
 
-### [<img src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/) ✅
+### [<img src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/) 
 
 **Санкт-Петербург**
 
@@ -93,7 +93,7 @@
 
 ---
 
-### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) ✅
+### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) 
 
 **Москва**
 
@@ -113,7 +113,7 @@
 
 ---
 
-### [<img src="logo/dataart.jpg"> DataArt](http://dataart.ua/) ✅
+### [<img src="logo/dataart.jpg"> DataArt](http://dataart.ua/) 
 
 **Киев**
 
@@ -140,7 +140,7 @@
 
 ---
 
-### [<img src="logo/redgraphic.png"> Red Graphic](http://redgraphic.ru/) ✅
+### [<img src="logo/redgraphic.png"> Red Graphic](http://redgraphic.ru/) 
 
 **Минск**
 
@@ -158,7 +158,7 @@
 
 ---
 
-### [<img src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/) ✅
+### [<img src="logo/comsplanet.jpg"> Cmsplanet](http://www.cmsplanet.ru/) 
 
 **Москва**
 
@@ -173,7 +173,7 @@
 [Мне нравится эта вакансия](http://www.cmsplanet.ru/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/)
 ---
 
-### [<img src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) ✅
+### [<img src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) 
 
 **Санкт-Петербург**
 
@@ -190,7 +190,7 @@
 
 ---
 
-### [<img src="logo/i-teco.png"> Айтеко](http://www.i-teco.ru/)✅
+### [<img src="logo/i-teco.png"> Айтеко](http://www.i-teco.ru/)
 
 **Москва**
 
@@ -206,7 +206,7 @@
 
 ---
 
-### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/) ✅
+### [<img src="logo/at.png"> AT Consulting](https://www.at-consulting.ru/) 
 
 **Москва, Воронеж, Новосибирск, Владивосток, Ярославль**
 
@@ -234,7 +234,7 @@
 
 ---
 
-### [<img src="logo/krok.png"> Крок](http://www.croc.ru/) ✅
+### [<img src="logo/krok.png"> Крок](http://www.croc.ru/) 
 
 **Москва, Нижний Новгород, Самара**
 
@@ -251,7 +251,7 @@
 
 ---
 
-### [<img src="logo/cinimex.png"> Cinimex] (http://www.cinimex.ru/) ✅
+### [<img src="logo/cinimex.png"> Cinimex] (http://www.cinimex.ru/) 
 
 **Москва**
 
@@ -266,7 +266,7 @@
 
 **Екатеринбург**
 
-#### [Frontend-разработчик (HTML-верстальщик)](https://hr.artsofte.ru/) ✅
+#### [Frontend-разработчик (HTML-верстальщик)](https://hr.artsofte.ru/) 
 
 **Минимальные требования**
 - знание страндартов верстки (HTML и CSS3);
@@ -278,7 +278,7 @@
 
 ---
 
-### [<img src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/) ✅
+### [<img src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/) 
 
 **Ярославль**
 
@@ -295,7 +295,7 @@
 
 ---
 
-### [<img src="logo/funbox.png"> FunBox](http://funbox.ru/ulsk) ✅
+### [<img src="logo/funbox.png"> FunBox](http://funbox.ru/ulsk) 
 
 **Ульяновск**
 
@@ -312,7 +312,7 @@
 
 ---
 
-### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) ✅
+### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) 
 
 **Новосибирск**
 
@@ -333,7 +333,7 @@
 
 ---
 
-### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/) ✅
+### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/) 
 
 **Москва**
 
@@ -373,7 +373,7 @@
 
 ---
 
-### [<img src="logo/t.jpg"> T-System](https://www.t-systems.com/ru/ru) ✅
+### [<img src="logo/t.jpg"> T-System](https://www.t-systems.com/ru/ru) 
 
 **Санкт-Петербург**
 
@@ -390,7 +390,7 @@
 
 ---
 
-### [<img src="logo/chulakov.png"> Cтудия Олега Чулакова](https://chulakov.ru/) ✅
+### [<img src="logo/chulakov.png"> Cтудия Олега Чулакова](https://chulakov.ru/) 
 
 **Ростов-на-Дону**
 
