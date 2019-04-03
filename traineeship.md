@@ -212,3 +212,15 @@
 Полный рабочий день или гибкий график.
 
 [Хочу больше информации!](https://yandex.ru/jobs/internship).
+
+---
+
+### [<img src="logo/infocraft.jpg"> Infocraft](https://www.infocraft.ru/)
+
+**Петрозаводск**
+
+#### Оплачиваемая стажировка для 1С разработчиков на платформе 1С:Предприятие 8.3
+
+Писать: [personal@infocraft.ru](mailto:personal@infocraft.ru)
+
+--
