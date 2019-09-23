@@ -213,24 +213,24 @@
 #### Список вакансий для молодых специалистов
 
 **Новосибирск**
-1. [ТЕСТИРОВЩИК](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik-novosibirsk/)
-2. [JAVA JUNIOR DEVELOPER](https://www.at-consulting.ru/career/students/razrabotka-po/java-junior-developer/)
-3. [JUNIOR FRONT-END DEVELOPER](https://www.at-consulting.ru/career/students/razrabotka-po/junior-front-end-developer/)
+1. [Тестировщик](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik-novosibirsk/)
+2. [Java Junior Developer](https://www.at-consulting.ru/career/students/razrabotka-po/java-junior-developer/)
+3. [Junior Front-End Developer](https://www.at-consulting.ru/career/students/razrabotka-po/junior-front-end-developer/)
 
 **Воронеж**
-1. [СТАЖЕР-АНАЛИТИК](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik/)
-2. [СТАЖЕР - РАЗРАБОТЧИК DWH](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-voronezh/)
+1. [Стажер-аналитик](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik/)
+2. [Стажер-разработчик DWH](https://www.at-consulting.ru/career/students/razrabotka-po/razrabotchik-voronezh/)
 
 **Москва**
-1. [СТАЖЕР-ТЕСТИРОВЩИК](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik/)
-2. [СТАЖЕР-АНАЛИТИК](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik-khranilishcha-dannykh/)
-3. [СТАЖЕР-РАЗРАБОТЧИК](https://www.at-consulting.ru/career/students/razrabotka-po/stazher-razrabotchik/)
+1. [Стажер-тестировщик](https://www.at-consulting.ru/career/students/testirovanie/testirovshchik/)
+2. [Стажер-аналитик](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik-khranilishcha-dannykh/)
+3. [Стажер-разработчик](https://www.at-consulting.ru/career/students/razrabotka-po/stazher-razrabotchik/)
 
 **Владивосток**
-1. [СТАЖЕР-АНАЛИТИК](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik-vladivostok/)
+1. [Стажер-аналитик](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik-vladivostok/)
 
 **Ярославль**
-1. [СТАЖЕР-АНАЛИТИК](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik_yaroslavl/)
+1. [Стажер-аналитик](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik_yaroslavl/)
 
 ---
 
@@ -251,7 +251,7 @@
 
 ---
 
-### [<img src="logo/cinimex.png"> Cinimex] (http://www.cinimex.ru/) 
+### [<img src="logo/cinimex.png"> Cinimex](http://www.cinimex.ru/) 
 
 **Москва**
 
@@ -321,11 +321,11 @@
 **Требования**
 - Bachelor’s/Master’s degree in Engineering (preferably Computer Science) or equivalent
 - Practical experience with some hosting software like services
--  - IIS/Apache
--  - Mail – Qmail, MS Exchange
--  - FTP
--  - DNS servers
--  - SQL – MySQL, PostgreSQL
+  - IIS/Apache
+  - Mail – Qmail, MS Exchange
+  - FTP
+  - DNS servers
+  - SQL – MySQL, PostgreSQL
 - Understanding of networking and network services configuration
 - Understanding of system logs and experience with troubleshooting/monitoring utilities
 
