@@ -77,66 +77,17 @@
 
 ---
 
-### [<img src="logo/SEMrush.png"> SEMrush](https://ru.semrush.com/) 
-
-**Санкт-Петербург**
-
-#### Junior QA Engineer
-
-- Требования
-- Опыт работы в технической поддержке пользователей/ аккаунт менеджменте
-- Высокую работоспособность, умение понимать проблемы пользователей, работать в команде, способность к прогнозированию, ориентированность на результат
-- Желание развиваться в тестировании
-- Английский язык на уровне intermediate
-
-[Откликнуться на вакансию](https://spb.hh.ru/vacancy/30754902)
-
----
-
 ### [<img src="logo/kaspersky_logo.jpg"> Лаборатория Касперского](https://www.kaspersky.ru/) 
 
 **Москва**
 
-#### Junior System Administrator
+- [Junior Data Scientist / Data Scientist (Anti-Spam)](https://careers.kaspersky.ru/vacancy/11386/)
+- [Junior Mobile Sales Manager/ Jr ASO Manager](https://careers.kaspersky.ru/vacancy/11608/)
+- [Junior HR Specialist](https://careers.kaspersky.ru/vacancy/11901/)
+- [Junior Security Researcher ICS / IoT](https://careers.kaspersky.ru/vacancy/12108/)
+- [Junior Malware Analyst](https://careers.kaspersky.ru/vacancy/19782/)
 
-**Обязанности:**
-- Устранять сбои в инфраструктуре и сервисах ЛК в режиме 24\7, реагируя на стандартные события систем мониторинга.
-- Решать стандартные запросы пользователей, пришедшие на группу
-- Соблюдать операционные показатели при выполнении заявок пользователей
-- Анализировать и реализовывать внесение изменений в сервисы, предоставляемые департаментом.
-
-**Требования:**
-- Высшее техническое образование, желательно в области ИТ
-- Не менее 1 года работы в должности системного администратора в компании с распределенной инфраструктурой.
-
-[Откликнуться на вакансию](https://spb.hh.ru/vacancy/30520015)
-
----
-
-### [<img src="logo/dataart.jpg"> DataArt](http://dataart.ua/) 
-
-**Киев**
-
-#### Junior DevOps Engineer
-
-Требования
-- Опыт администрирования серверных систем от двух лет (Linux, Windows Server).
-- Понимание TCP/IP-сетей.
-- Опыт настройки веб-серверов (Apache, nginx).
-- Опыт администрирования серверов баз данных (MySql, PostgreSQL).
-- Опыт администрирования/использования Zabbix или подобных систем мониторинга.
-- Опыт настройки и администрирования облачных сервисов (Amazon AWS, Microsoft Azure).
-- Опыт работы с CI-системами (Jenkins/TeamCity) и CD-системами (Ansible/Puppet).
-- Ответственность.
-- Умение разбираться с техническими проблемами на стороне серверов/сетевого оборудования/БД/сервисов и т.п.
-- Разговорный английский.
-
-Будет плюсом
-- Базовые знания Java, CDN.
-- Широкий кругозор в области IT.
-- Коммуникабельность, способность работать в команде и умение быстро обучаться.
-
-[Откликнуться на вакансию](https://dataart.ua/vacancy/cfm175)
+[Поиск по вакансиям для начинающих специалистов](https://careers.kaspersky.ru/vacancy/search/?q=Junior)
 
 ---
 
@@ -171,22 +122,18 @@
 - Возможность работать в офисе не менее 30 часов в неделю.
 
 [Мне нравится эта вакансия](http://www.cmsplanet.ru/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F/%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/)
+
 ---
 
 ### [<img src="logo/veeam.jpg"> Veeam](https://careers.veeam.ru/) 
 
 **Санкт-Петербург**
 
-### [Младший инженер по качеству ПО / Junior QA Engineer (стажёр)](https://careers.veeam.ru/vacancies/quality-assurance/mladshij-inzhener-po-kachestvu-po-junior-qa-engineer-stazhyor-3706)
+- [Младший инженер по качеству ПО / Junior QA Engineer (стажёр)](https://careers.veeam.ru/vacancies/quality-assurance/mladshij-inzhener-po-kachestvu-po-junior-qa-engineer-stazhyor-743999693424809?experience=without)
+- [Junior QA Automation Engineer](https://careers.veeam.ru/vacancies/quality-assurance/junior-qa-automation-engineer-743999689393157?experience=without)
+- [Junior C# Developer](https://careers.veeam.ru/vacancies/development/junior-c-developer-743999690253245?experience=without)
 
-**Требования**
-- Выпускник технического ВУЗа или студент старших курсов, мечтающий о работе в эпицентре IT.
-- Интересуешься техникой и знаешь Microsoft Windows или Linux на уровне продвинутого пользователя или администратора.
-- Любопытен и внимателен, замечаешь недостатки в окружающих тебя предметах и процессах, интересуешься природой вещей.
-- Обладаешь «живым» умом, любишь анализировать.
-- Быстро учишься, любишь решать интересные и нестандартные задачи.
-
-[Получить эту работу!](https://careers.veeam.ru/vacancies/quality-assurance/mladshij-inzhener-po-kachestvu-po-junior-qa-engineer-stazhyor-3706)
+[Портал с вакансиями](https://careers.veeam.ru/vacancies).  
 
 ---
 
@@ -232,6 +179,8 @@
 **Ярославль**
 1. [Стажер-аналитик](https://www.at-consulting.ru/career/students/sistemnyy-i-biznes-analiz/stazher-analitik_yaroslavl/)
 
+[Больше вакансий!](https://www.at-consulting.ru/career/students/all_vacancy/)
+
 ---
 
 ### [<img src="logo/krok.png"> Крок](http://www.croc.ru/) 
@@ -249,16 +198,18 @@
 * [Стажер-разработчик](http://www.croc.ru/vacancy/vacancies/detail/57067/);
 * [Стажер по системам управления ИТ-инфраструктурой](https://www.croc.ru/career/vacancies/detail/41737/).
 
+[Нужно больше вакансий!](https://www.croc.ru/career/start/beginner/)
+
 ---
 
 ### [<img src="logo/cinimex.png"> Cinimex](http://www.cinimex.ru/) 
 
-**Москва**
+**Воронеж**
 
-- [Младший разработчик AS/400](http://welcome.cinimex.ru/vacancy/122/);
-- [Младший Java-разработчик](http://welcome.cinimex.ru/vacancy/58/).
+- [Младший backend-разработчик (IBM Integration Bus)](https://www.cinimex.ru/career/#job1068);
+- [Младший специалист по обеспечению качества (функциональное тестирование)](https://www.cinimex.ru/career/#job622).
 
-[Подробнее о работодателе](http://welcome.cinimex.ru/)
+[Портал с вакансиями](https://www.cinimex.ru/career/)
 
 ---
 
@@ -274,24 +225,7 @@
 - умение сверстать кроссбраузерную страницу из psd макета. Опыт работы с Adobe Illustrator и Fireworks;
 - базовые принципы понимания JavaScript, JQuery.
 
-[Откликнуться](https://hr.artsofte.ru/#profitbase).
-
----
-
-### [<img src="logo/arealidea.png"> ArealIdea](http://www.arealidea.ru/) 
-
-**Ярославль**
-
-#### [Начинающий веб-разработчик](http://www.arealidea.ru/vacancy/nachinayushchiy-veb-razrabotchik/)
-
-**Требования к квалификации:**
-- высшее образование (возможно трудоустройство студентов старших курсов);
-- целеустремленность;
-- способность к самоорганизации;
-- стремление постоянно развиваться и быть лучшим/ей в своем деле, умение и желание много учиться;
-- у нас некурящий коллектив.
-
-Писать: [job@arealidea.ru](mailto:job@arealidea.ru)
+[Откликнуться](https://hr.artsofte.ru/).
 
 ---
 
@@ -312,64 +246,16 @@
 
 ---
 
-### [<img src="logo/odin.jpg"> Odin](http://www.odin.com/ru/) 
-
-**Новосибирск**
-
-#### [Junior Support Engineer of Highly loaded platform](http://www.odin.com/careers/open-jobs/job-detail/article/junior-support-engineer-of-highly-loaded-platform/)
-
-**Требования**
-- Bachelor’s/Master’s degree in Engineering (preferably Computer Science) or equivalent
-- Practical experience with some hosting software like services
-  - IIS/Apache
-  - Mail – Qmail, MS Exchange
-  - FTP
-  - DNS servers
-  - SQL – MySQL, PostgreSQL
-- Understanding of networking and network services configuration
-- Understanding of system logs and experience with troubleshooting/monitoring utilities
-
-[Откликнуться на вакансию](http://www.odin.com/careers/open-jobs/job-detail/article/junior-support-engineer-of-highly-loaded-platform/)
-
----
-
 ### [<img src="logo/ya.jpg"> Яндекс](https://yandex.ru/) 
 
 **Москва**
 
-#### [Младший Python-разработчик в группу сопровождения Биллинга](https://yandex.ru/jobs/vacancies/dev/fin_support/)
+Требования:
+- хорошая математическая подготовка
+- знание базовых алгоритмов
+- умение программировать
 
-<details>
-  <summary>Требования</summary>
-  
-  - знание SQL;
-  - знание Python и основ объектно-ориентированного программирования;
-  - знание классических алгоритмов и структур данных;
-  - умение анализировать большие объемы информации;
-  - умение разбираться в чужом коде.
-</details>
-
-#### [Стажер-разработчик для автоматизации тестирования (Java)](https://yandex.ru/jobs/vacancies/interns/autotest_java_intern/)
-
-<details>
-  <summary>Требования</summary>
-  
-  - знаете Java на базовом уровне;
-  - знакомы с теорией автоматизации тестирования;
-  - ответственны и готовы к обучению.
-</details>
-
-#### [Стажер в cлужбу компьютерного зрения](https://yandex.ru/jobs/vacancies/interns/intern_dev_computer_vision/)
-
-<details>
-  <summary>Приветствуется</summary>
-  
-  - опыт разработки на С++ или на Python;
-  - знание и понимание структур данных и алгоритмов;
-  - понимание принципов машинного обучения и нейросетевых технологий.
-</details>
-
-[Остальные вакансии](https://yandex.ru/jobs/vacancies/junior?experience=junior)
+[Вакансии для начинающих специалистов](https://yandex.ru/jobs/vacancies/junior?experience=junior)
 
 ---
 
@@ -377,39 +263,17 @@
 
 **Санкт-Петербург**
 
-#### [JUNIOR QUALITY SPECIALIST](https://t-systems.jobs/careers-ru-ru/jobs/ru/127579/Junior-Quality-Specialist/Saint-Petersburg.html)
+#### [Junior DevOps (TVPP/THOP)](https://t-systems.jobs/careers-ru-ru/jobs/ru/129334/Junior-DevOps-%28TVPP%7CTHOP%29/Saint_Petersburg.html)
 
 <details>
   <summary>Требования</summary>
   
-  - Oпытный пользователь MS Excel (опыт автоматизации на Visual Basic - плюс);
-  - Знание основ стандартов и моделей управления качеством и совершенствования процессов (e.g. ISO9001, CMMI, Lean, Agile, Six Sigma);
-  - Знакомство с инструментальными средсвами поддержки процессов разработки ПО (e.g. Jira, HPQC, Bugzilla, TestBench);
-  - Опыт работы с системами управления базами данных (знание SQL - плюс).
+  - Опыт работы с ОС: Centos/RHEL;
+  - Знакомство с инструментами CI\CD: Gitlab CI, Jenkins (хотя бы одним из);
+  - Опыт работы с системами управления конфигурациями (e.g. ansible, puppet, salt);
+  - Умение программировать на bash, python;
+  - Опыт работы с системами контроля версий (Git).
+  - Знание SQL.
 </details>
 
----
-
-### [<img src="logo/chulakov.png"> Cтудия Олега Чулакова](https://chulakov.ru/) 
-
-**Ростов-на-Дону**
-
-#### [Junior Android SWE](https://chulakov.ru/career/junior-android-developer)
-
-<details>
-  <summary>Требования</summary>
-  
-  - опыт разработки нативных приложений под Android OS;
-  - знание Android SDK, Android Architecture Components;
-  - знание Java / Kotlin;
-  - знание ООП;
-  - знание базовых структур данных используемых в Android и их особенностей;
-  - понимание Activity lifecycle;
-  - применение RESTful API для взаимодействия с Backend-сервисами;
-  - опыт работы с реляционными СУБД;
-  - знание TCP/UDP/HTTP;
-  - GitFlow на основе GitHub/GitLab/Bitbucket;
-  - понимание принципов DI и работа с Dagger 2.
-</details>
-
-Требуется выполнить [тестовое задание](https://docs.google.com/document/d/1mldQnn-hJFgoAsJxkc6qK4LoZrYgrgNORgowgu89uaE/edit)
+[Больше вакансий](https://t-systems.jobs/careers-ru-ru)
