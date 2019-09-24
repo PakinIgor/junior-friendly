@@ -39,6 +39,8 @@
 5. [Стажер по администрированию](http://www.icl.ru/career/jobs/students/stazher-po-administrirovaniyu-19998009/)
 6. [Стажер-разработчик (1С)](http://www.icl.ru/career/jobs/students/stazher-razrabotchik-1s-19758767/)
 
+[Полный список стажировок](http://www.icl.ru/career/jobs/students/)
+
 ---
 
 ### [<img src="logo/Intel.png"> Intel](http://www.intel.ru/content/www/ru/ru/homepage.html)
@@ -61,8 +63,7 @@
 
 **Санкт-Петербург**
 
-#### Практикант в инженерно-технический отдел
-
+#### [Практикант в инженерно-технический отдел](https://selectel.ru/careers/all/vacancy/#33704627)  
 **Чем вы будете заниматься на практике:**
 - Работать с серверным и сетевым оборудованием
 - Собирать и тестировать серверное оборудование
@@ -75,7 +76,7 @@
 - Знания основ работы с OC Linux
 - Желание погрузиться в специфику работы дата-центра
 
-[Пройти здесь стажировку](https://selectel.ru/careers/all/vacancy/?utm_expid=.Lki6eS4wQCuK0KxRKokt8A.0&utm_referrer=https%3A%2F%2Fselectel.ru%2Fcareers%2Fall%2F#27002454)
+[О стажировках в Selectel](https://selectel.ru/careers/internships/)
 
 ---
 
